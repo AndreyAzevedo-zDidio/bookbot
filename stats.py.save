@@ -1,0 +1,6 @@
+# Python
+def get_num_words(text):
+    return len(text.split())
+
+def get_nun_characters(text)
+    text.lower

@@ -1,0 +1,4 @@
+#get_book_text
+with open(books/frankenstein.txt) as f:
+    # do something with f (the file) here
+main()
